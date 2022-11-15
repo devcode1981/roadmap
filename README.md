@@ -1,7 +1,7 @@
 # Docker Roadmap
 
 Thank you for the interest in Docker and our products!
-This is the public roadmap for Docker Products and Services (Hub, Desktop, Engine, docker-compose, Docker App).
+This is the public roadmap for Docker Products and Services (Hub, Desktop, Engine, docker-compose).
 
 # Introduction
 We want to share with our customers what we plan to do early and often so we can get your feedback on if these are the right things for us to be focusing on. This also allows our customers to make early decisions based on what we are/are not building. 
@@ -14,7 +14,11 @@ We want to share with our customers what we plan to do early and often so we can
 
 For users of Docker Desktop interested in early access to new features please join our [Developer Preview Program](https://www.docker.com/community/get-involved/developer-preview). 
 
-**Security**
+## Participate in User Research
+During these live feedback sessions we will often show work in progress features or ideas to get your input on, or ask you more about how you use Docker to discover any pain points when working with the product. We use these insights to help prioritize our roadmap and improve the user experience. Each session is typically 30 minutes to an hour. If you would like to take part in one of our user research studies please [sign up](https://survey.alchemer.com/s3/6810323/Docker-Research-Participant-Survey) and we will reach out to you when we have something to research or test.
+
+
+## Security
 Please do not create a public github issue. If you discover a potential security issue in this project we ask that you notify Docker Security send your report privately to security@docker.com. Please do not create a public github issue.
 
 
@@ -26,6 +30,7 @@ Please do not create a public github issue. If you discover a potential security
 
 * [Docker Hub](https://github.com/docker/hub-feedback)
 * [Docker Engine](https://github.com/docker/for-linux)
+* [Docker Desktop Linux](https://github.com/docker/desktop-linux/issues)
 * [Docker Desktop Windows](https://github.com/docker/for-win/issues)
 * [Docker Desktop Mac](https://github.com/docker/for-mac/issues) 
 
